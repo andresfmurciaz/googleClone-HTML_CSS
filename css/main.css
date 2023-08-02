@@ -92,7 +92,18 @@ align-items: center;
 
 }
 
+main .main-input input{
+width: 450px;
+height:  40px;
+border:none;
+outline: none;
 
+}
 
+/* esto es un fecto que cuando el cursor este arriba del alemento haga algo */
+main .main-input-container:hover{
+box-shadow: 0 1px 6px 0 #20212447;
+
+}
 
 
