@@ -55,7 +55,7 @@ nav .nav-right-section img{
 
 main{
 
-    margin-top: 150px;
+    margin-top: 110px;
     /* para que todo lo que este dentro de la etiqueta main se centrte */
     text-align: center;
 
@@ -71,6 +71,28 @@ main .main-logo{
 }
 
 main .main-logo img{
-    width: 400px;
+    width: 300px;
 
 }
+
+main .main-input{
+    width: 530px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+}
+
+main .main-input-container{
+
+width: 525px;
+border-radius: 100px;
+border:1px solid #e7e9ec;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+
+
+
+
