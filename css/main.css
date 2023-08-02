@@ -51,3 +51,26 @@ nav .nav-right-section img{
     border-radius: 50px;
     margin-left: 10px;
 }
+
+
+main{
+
+    margin-top: 150px;
+    /* para que todo lo que este dentro de la etiqueta main se centrte */
+    text-align: center;
+
+
+}
+
+
+main .main-logo{
+    width: 530px;
+    /* centra y rellena para que ste en la mitad */
+    margin: 0 auto;
+    margin-bottom: 35px;
+}
+
+main .main-logo img{
+    width: 400px;
+
+}
