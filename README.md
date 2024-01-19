@@ -34,7 +34,7 @@ Este proyecto es una página estática que imita la apariencia de la página de 
 
 ## Enlace de Implementación (Git Pages)
 
-La pagina está disponible en línea a través de Git Pages. Puedes acceder [aquí](https://andresfmurciaz.github.io/googleClone/).
+La pagina está disponible en línea a través de Git Pages. Puedes acceder [aquí](https://andresfmurciaz.github.io/googleClone-HTML_CSS/).
 
 ---
 ¡Gracias por revisar mi portafolio!
