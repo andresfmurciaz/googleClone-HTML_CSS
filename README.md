@@ -1,6 +1,6 @@
-# Página Estática - Google Clone - HTML CSS
+# Página Estática - Google Clone - HTML5 CSS3
 
-Este proyecto es una página estática que imita la apariencia de la página de inicio de Google. Está construido con HTML y CSS.
+Este proyecto es una página estática que imita la apariencia de la página de inicio de Google. Está construido con HTML5 y CSS3.
 
 ## Características Destacadas
 
